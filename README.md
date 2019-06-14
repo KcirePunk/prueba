@@ -30,8 +30,12 @@ ramas = "Es nuestro proyecto que hemos dividido en 2 copias y hacer hacer cambio
 
 git branch = para mirar en q rama estas
 
+<<<<<<< HEAD
 git branch -d experimento2 = para borrar rama
 
 git merge <nombre del archivo> = para reemplazar tu rama para que sea la original
 
 https://help.github.com/articles/checking-for-existing-ssh-keys
+=======
+##bbcita
+>>>>>>> 73456ac0aa9401f651a0bd9166877670c38ea943
