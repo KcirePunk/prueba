@@ -29,3 +29,5 @@ git log --stat = quermos ver cuales son las estadisticas del commit cuandos arch
 ramas = "Es nuestro proyecto que hemos dividido en 2 copias y hacer hacer cambio sin hacer cambio al proyecto oroignal"
 
 git branch = para mirar en q rama estas
+
+##bbcita
