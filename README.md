@@ -29,3 +29,9 @@ git log --stat = quermos ver cuales son las estadisticas del commit cuandos arch
 ramas = "Es nuestro proyecto que hemos dividido en 2 copias y hacer hacer cambio sin hacer cambio al proyecto oroignal"
 
 git branch = para mirar en q rama estas
+
+git branch -d experimento2 = para borrar rama
+
+git merge <nombre del archivo> = para reemplazar tu rama para que sea la original
+
+https://help.github.com/articles/checking-for-existing-ssh-keys
